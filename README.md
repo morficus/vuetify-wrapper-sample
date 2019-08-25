@@ -1,29 +1,22 @@
-# vuetify-wrapper-sample
+# Vuetify Wrapper Sample
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and starts Storybook
 ```
-npm run serve
+npm run storybook
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production / distrubtion
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
 
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
